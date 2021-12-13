@@ -1,3 +1,3 @@
 <script>
-    
+    document.querySelector
 </script>
